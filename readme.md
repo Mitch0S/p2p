@@ -1,7 +1,6 @@
-#Python2Python Network#
+#Python2Python Network
 
-_How does it work?_
-Connecting
+##_How does it work? Connecting_
 1. A new node is started and pointed towards an already-running node.
 2. The node that recieves this request adds the IP of the new node to the list
 3. The node that recieves the request then propagates the changes in the node list to all other IPs in that list
@@ -12,7 +11,7 @@ By the end of the initialisation process, all nodes already on the network have 
 
     
  
-_How does it work?_
+##_How does it work?_
 Propagating information
 1. When a node makes a new message, it will send it to a set amount of nodes in its IP list.
 2. The nodes that recieve the message check if they have already recieved the same message within a set amount of time
