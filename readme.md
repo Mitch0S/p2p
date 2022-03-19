@@ -8,6 +8,8 @@ Connecting
 4. The node that recieves the request then returns a list of all IPs already on the network.
 
 By the end of the initialisation process, all nodes already on the network have added the IP of the newly connected node in their list of IPs. The newly connected node has retrieved a list of the current IPs in the network
+
+
     
  
 _How does it work?_
