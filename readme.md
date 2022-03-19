@@ -1,4 +1,4 @@
-*Python2Python Network*
+#Python2Python Network#
 
 _How does it work?_
 Connecting
