@@ -11,8 +11,7 @@
 
     
  
-## _How does it work?_
-Propagating information
+## _How does it work? Messaging_
 1. When a node makes a new message, it will send it to a set amount of nodes in its IP list.
 2. The nodes that recieve the message check if they have already recieved the same message within a set amount of time
 3. If they have not recieved the message, they relay the message on to a set amount of nodes within its IP list 
